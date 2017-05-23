@@ -2,7 +2,7 @@
 
 Programmatically stars all public repos from your following.
 
-##Usage
+## Usage
 
 To install dependencies:
 
