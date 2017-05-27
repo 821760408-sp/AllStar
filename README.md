@@ -1,4 +1,4 @@
-# Star them all
+# AllStar
 
 Programmatically stars all public repos from your following.
 
